@@ -1,0 +1,24 @@
+{
+  "name": "10",
+  "symbol": "",
+  "image": "9.png",
+  "properties": {
+    "files": [{ "uri": "9.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "N4f6zftYsuu4yT7icsjLwh4i6pB1zvvKbseHj2NmSQw",
+        "share": 100
+      }
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 1,
+  "attributes": [
+    { "trait_type": "background", "value": "red" },
+    { "trait_type": "eyes", "value": "star-eyes" },
+    { "trait_type": "mouth", "value": "triangle-mouth" },
+    { "trait_type": "face", "value": "sun-face" }
+  ],
+  "collection": {}
+}
